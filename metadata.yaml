@@ -1,0 +1,27 @@
+_repo: The-Data-of-Ethics_46129
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46129-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spencer, Herbert
+    birthdate: 1820
+    deathdate: 1903
+    gutenberg_agent_id: '1887'
+    url: http://www.gutenberg.org/2009/agents/1887
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
+description: ''
+gutenberg_issued: '2014-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics, Evolutionary'
+- !lcc 'BJ'
+title: The Data of Ethics
+url: http://www.gutenberg.org/ebooks/46129
